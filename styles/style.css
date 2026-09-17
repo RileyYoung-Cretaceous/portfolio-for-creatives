@@ -33,9 +33,7 @@
 /* Remember, the more fonts you load, the longer it can take for your page to load. */
 
 /* Eczar Font (for headers or special text) */
-@import url(<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Jaro:opsz@6..72&display=swap" rel="stylesheet">);
+@import url("https://fonts.googleapis.com/css2?family=Jaro:wght@600;700;800;900&display=swap");
 
 /* Rubik Font (clean and modern for body text) */
 @import url("https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700;900&display=swap");
@@ -107,7 +105,7 @@
 
 :root {
   /* Typography */
-  --font-family-body: "Inter", sans-serif;
+  --font-family: "Jaro", sans-serif;
   --font-family-heading: "Eczar", serif;
   --font-family-project-title: "Eczar", serif;
   /* Core Colours */
