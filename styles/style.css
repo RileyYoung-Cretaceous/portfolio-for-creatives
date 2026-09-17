@@ -106,8 +106,8 @@
 :root {
   /* Typography */
   --font-family: "Jaro", sans-serif;
-  --font-family-heading: "Eczar", serif;
-  --font-family-project-title: "Eczar", serif;
+  --font-family-heading: "Jaro", sans-serif;
+  --font-family-project-title: "Jaro", sans-serif;
   /* Core Colours */
   --color-text-primary: #222;
   --color-text-secondary: #333;
